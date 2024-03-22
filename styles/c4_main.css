@@ -42,5 +42,9 @@ text-align: center;
 
 a:hover,a:focus{
 font-style: italic;
+} 
+
+.shadow {
+text-shadow: #800000 1px 1px ;
 }
 /* the styles for the footer */
